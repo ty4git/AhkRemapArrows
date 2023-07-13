@@ -1,1 +1,1 @@
-Some AutoHotKey remap.
+Remap arrows using AutoHotKey.
